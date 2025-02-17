@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cosmic-symphony/static/css/main.e60b3c08.css",
+    "main.js": "/cosmic-symphony/static/js/main.938a3365.js",
+    "index.html": "/cosmic-symphony/index.html",
+    "main.e60b3c08.css.map": "/cosmic-symphony/static/css/main.e60b3c08.css.map",
+    "main.938a3365.js.map": "/cosmic-symphony/static/js/main.938a3365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e60b3c08.css",
+    "static/js/main.938a3365.js"
+  ]
+}
